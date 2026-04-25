@@ -152,9 +152,6 @@ The study employed a comparative user evaluation using the Usability Metric for 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-**Caleb Christian**
 
 ## Contributing
 
